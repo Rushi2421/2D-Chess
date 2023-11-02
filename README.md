@@ -33,4 +33,4 @@ You can play the game online at [Simple 2D Chess Game](https://your-game-url-her
 1. Clone or download the game repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/simple-2d-chess-game.git
+   git clone https://github.com/Rushi2421/2D-Chess.git
