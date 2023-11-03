@@ -11,7 +11,7 @@ Simple 2D Chess Game is a basic chess game built using HTML, CSS, and JavaScript
 
 ## Demo
 
-You can play the game online at [Simple 2D Chess Game](https://your-game-url-here.com).
+You can play the game online at [Simple 2D Chess Game](https://your-game-url-here.comhttps://rushi2421.github.io/2D-Chess/).
 
 ## Features
 
